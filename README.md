@@ -1,4 +1,4 @@
-<span>
+<samp>
 
 # Distributed Tracing
 
@@ -48,4 +48,4 @@ Distributed Tracing Research
 ***
 WIP...
 
-<span>
+</samp>
