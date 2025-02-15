@@ -7,10 +7,10 @@ Distributed Tracing Research
 ## Table of Contents
 * [Foundations](#foundations)
 * [Standards](#standards)
- * [OpenTelemetry](#)
+ * [OpenTelemetry](#opentelemetry)
 * [Advanced](#advanced)
 * [Implementation](#implementation)
-* [Visualization and Tracing Tools](#)
+* [Visualization and Tracing Tools](#visualization-and-tracing-tools)
 
 ## Foundations
 * [📝 What is Distributed Tracing? - AWS](https://aws.amazon.com/what-is/distributed-tracing/)
