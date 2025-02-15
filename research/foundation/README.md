@@ -16,19 +16,19 @@ Distributed Tracing is a way to track requests in applications as they flow in a
 
 ### Components
 * Trace - complete path of request, consisting multiple spans
-* Span - single unit of work within a trace (e.g, function call, database query)
+* Span - single unit of work within a trace (e.g, function call, database query, calls to another service, etc.)
 * Trace context - information passed to link spans across different services, includes trace ID and span ID
 * Context propagation - mechanism of passing trace context across different services to link spans
 * Instrumentation - adding code to an application to generate trace data (spans)
 * Sampling - technique to reduce the amount of trace data by selecting a sample request
-* Visualization & distributed tracing tools options:
+* Visualization & distributed tracing tools:
   * OpenTelemetry - collection of APIs, SDKs, and tools, to instrument, generate, collect, and export telemetry data (metrics, logs, and traces)
   * AWS X-Ray - monitor, visualize, and debug distributed applications
-  * 
+  * SigNoz - observability tool powered by OpenTelemetry
 
-![](https://github.com/user-attachments/assets/9a296fa3-c01d-4d79-913e-ad70615531f8)
+![image](https://github.com/user-attachments/assets/5de35428-08d8-407f-ac32-2f61601cb8cf)
 :--:
-*[Image Source](https://docs.logz.io/docs/user-guide/distributed-tracing/tracing-overview/what-tracing/)*
+*Sample Trace: [Image Source](https://signoz.io/blog/distributed-tracing-span/)*
 
 ### Standards:
 Standardizing distributed tracing workflow. Common framework and software tools for developers (monitor, visualize, and analyze service request), also prevents vendor lock-in
