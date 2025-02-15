@@ -44,8 +44,8 @@ Distributed Tracing Research
 ## Visualization and Tracing Tools
 * [⚙️ OpenTelemetry](https://opentelemetry.io/)
 * [🔭 AWS X-Ray](https://aws.amazon.com/xray/)
-* [🔭 SigNoz](https://signoz.io/)
-* [🔭 Datadog](https://www.datadoghq.com/)
+* [🔭 SigNoz](https://signoz.io/distributed-tracing/)
+* [🔭 Datadog](https://www.datadoghq.com/product/apm/#code-level-tracing)
 
 ***
 WIP...
