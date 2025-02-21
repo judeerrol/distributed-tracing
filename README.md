@@ -28,6 +28,7 @@ Distributed Tracing Research
 * [⚙️ OpenTelemetry](https://opentelemetry.io/) *
   
 ### OpenTelemetry
+* [📝 Getting Started with OpenTelemetry (LFS148)](https://training.linuxfoundation.org/training/getting-started-with-opentelemetry-lfs148/?__hstc=60185074.a4cbd9471e49dd20a7fef30f9028a29d.1738592429342.1738592429342.1740109617590.2&__hssc=60185074.1.1740109617590&__hsfp=346844786)
 * [📝 OpenTelemetry, OpenTracing, OpenCensus: An Introduction and Glossary](https://medium.com/honeycombio/opentelemetry-opentracing-opencensus-an-introduction-and-glossary-honeycomb-4fa5ae9534d)
 * [📝 OpenTelemetry Demo](https://opentelemetry.io/ecosystem/demo/)
 * [📝 OpenTelemetry Components](https://opentelemetry.io/docs/concepts/components/)
