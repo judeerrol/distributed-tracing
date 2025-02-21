@@ -53,6 +53,8 @@ Distributed Tracing Research
 * [🔭 AWS X-Ray](https://aws.amazon.com/xray/)
 * [🔭 SigNoz](https://signoz.io/distributed-tracing/)
 * [🔭 Datadog](https://www.datadoghq.com/product/apm/#code-level-tracing)
+* [🔭 Jaeger](https://www.jaegertracing.io/)
+* [🔭 Zipkin](https://zipkin.io/)
 
 ***
 WIP...
