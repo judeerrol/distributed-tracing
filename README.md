@@ -8,6 +8,10 @@ Distributed Tracing Research
 * [Foundations](#foundations)
 * [Standards](#standards)
  * [OpenTelemetry](#opentelemetry)
+   * [Ruby](#ruby)
+   * [Python](#python)
+   * [Go](#go)
+   * [JavaScript](#javascript)
 * [Advanced](#advanced)
 * [Implementation](#implementation)
 * [Visualization and Tracing Tools](#visualization-and-tracing-tools)
@@ -36,9 +40,19 @@ Distributed Tracing Research
 
 #### Ruby
 * [SDK](https://opentelemetry.io/docs/languages/ruby/)
-* [Exporters](https://opentelemetry.io/ecosystem/registry/?component=exporter&language=ruby)
+* [Exporters](https://opentelemetry.io/docs/languages/ruby/exporters/)
 
-#### 
+#### Python
+* [SDK](https://opentelemetry.io/docs/languages/python/)
+* [Exporters](https://opentelemetry.io/docs/languages/python/exporters/)
+
+#### Go
+* [SDK](https://opentelemetry.io/docs/languages/go/)
+* [Exporters](https://opentelemetry.io/docs/languages/go/exporters/)
+
+#### JavaScript
+* [SDK](https://opentelemetry.io/docs/languages/js/)
+* [Exporters](https://opentelemetry.io/docs/languages/js/exporters/)
 
 ## Advanced
 * Sampling
