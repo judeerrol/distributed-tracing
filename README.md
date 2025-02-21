@@ -34,11 +34,9 @@ Distributed Tracing Research
 * [📝 OpenTelemetry Components](https://opentelemetry.io/docs/concepts/components/)
 * [📝 OpenTelemetry Architecture](https://opentelemetry.io/docs/collector/architecture/)
 
-#### Ruby SDK
-* https://opentelemetry.io/docs/languages/ruby/
-
-#### Ruby Exporters
-* https://opentelemetry.io/ecosystem/registry/?component=exporter&language=ruby
+#### Ruby
+* [SDK](https://opentelemetry.io/docs/languages/ruby/)
+* [Exporters](https://opentelemetry.io/ecosystem/registry/?component=exporter&language=ruby)
 
 #### 
 
